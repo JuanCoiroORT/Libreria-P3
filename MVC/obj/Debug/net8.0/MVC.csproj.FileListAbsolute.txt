@@ -1,0 +1,8 @@
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.csproj.AssemblyReference.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cs

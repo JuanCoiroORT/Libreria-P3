@@ -1,0 +1,11 @@
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
