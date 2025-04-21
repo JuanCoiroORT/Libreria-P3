@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace LogicaNegocio.EntidadesNegocio
 {
-    public class Publicacion
+    public class Publicacion : IEquatable<Publicacion>
     {
         public int Id { get; set; }
         private static int s_ultId;
-        public Tema Tema { get; set; }
+        public string Tema { get; set; }
         public double PrecioSugerido { get; set; }
         public Editorial Editorial { get; set; }
         public int CantPaginas { get; set; }
@@ -23,7 +23,7 @@ namespace LogicaNegocio.EntidadesNegocio
 
         public Publicacion() { }
 
-        public Publicacion(Tema tema, double precioSugerido, Editorial editorial, int cantPaginas, DateTime fechaPublicacion, string imagenPortada, int stock, int stockMinimo, List<Autor> autores, List<Valoracion> valoraciones)
+        public Publicacion(string tema, double precioSugerido, Editorial editorial, int cantPaginas, DateTime fechaPublicacion, string imagenPortada, int stock, int stockMinimo, List<Autor> autores, List<Valoracion> valoraciones)
         {
             Id = s_ultId;
             s_ultId++;
@@ -37,6 +37,11 @@ namespace LogicaNegocio.EntidadesNegocio
             StockMinimo = stockMinimo;
             Autores = autores;
             Valoraciones = valoraciones;
+        }
+
+        public bool Equals(Publicacion? other)
+        {
+            return Id == other.Id;
         }
     }
 }

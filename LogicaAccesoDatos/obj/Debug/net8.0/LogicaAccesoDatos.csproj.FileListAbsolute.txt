@@ -13,3 +13,4 @@ D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaAccesoDatos\o
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.sourcelink.json

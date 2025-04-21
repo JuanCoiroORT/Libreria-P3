@@ -9,3 +9,4 @@ D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\D
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.sourcelink.json

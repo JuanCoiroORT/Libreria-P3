@@ -12,7 +12,11 @@ namespace LogicaAplicacion.ImplementacionCasosUso.UsuarioCU
 {
     public class AltaUsuario
     {
-        private RepositorioUsuario RepoUsuario;
+        private RepositorioUsuario RepoUsuario = new RepositorioUsuario();
+
+        public AltaUsuario()
+        {
+        }
 
         public AltaUsuario(RepositorioUsuario repoUsuario)
         {

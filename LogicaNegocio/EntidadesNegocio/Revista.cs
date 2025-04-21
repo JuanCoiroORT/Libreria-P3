@@ -13,7 +13,7 @@ namespace LogicaNegocio.EntidadesNegocio
         public int Anio { get; set; }
         public string Contenido { get; set; }
 
-        public Revista(Tema tema, double precioSugerido, Editorial editorial, int cantPaginas, DateTime fechaPublicacion, string imagenPortada, int stock, int stockMinimo, List<Autor> autores, List<Valoracion> valoraciones, string nombre, int numero, int anio, string contenido) : base(tema, precioSugerido, editorial, cantPaginas, fechaPublicacion, imagenPortada, stock, stockMinimo, autores, valoraciones)
+        public Revista(string tema, double precioSugerido, Editorial editorial, int cantPaginas, DateTime fechaPublicacion, string imagenPortada, int stock, int stockMinimo, List<Autor> autores, List<Valoracion> valoraciones, string nombre, int numero, int anio, string contenido) : base(tema, precioSugerido, editorial, cantPaginas, fechaPublicacion, imagenPortada, stock, stockMinimo, autores, valoraciones)
         {
             Nombre = nombre;
             Numero = numero;

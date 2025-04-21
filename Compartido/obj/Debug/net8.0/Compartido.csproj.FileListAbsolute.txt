@@ -13,3 +13,4 @@ D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\Compartido\obj\Debu
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\Compartido\obj\Debug\net8.0\refint\Compartido.dll
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\Compartido\obj\Debug\net8.0\Compartido.pdb
 D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\Compartido\obj\Debug\net8.0\ref\Compartido.dll
+D:\Escritorio\ORT\Semestre3\Prog3\Libreria\Libreria\Libreria\Compartido\obj\Debug\net8.0\Compartido.sourcelink.json

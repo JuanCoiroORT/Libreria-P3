@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LogicaNegocio.EntidadesNegocio
 {
-    public class Usuario
+    public class Usuario: IEquatable<Usuario>
     {
         public int Id { get; set; }
         private int s_ultId;

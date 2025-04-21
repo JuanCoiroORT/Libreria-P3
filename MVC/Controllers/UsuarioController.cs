@@ -1,12 +1,14 @@
-﻿using LogicaAplicacion.ImplementacionCasosUso.UsuarioCU;
+﻿using Compartido.DTOs;
+using LogicaAplicacion.ImplementacionCasosUso.UsuarioCU;
+using LogicaNegocio.ExcepcionesEntidades;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MVC.Models.Usuarios;
 
 namespace MVC.Controllers
 {
     public class UsuarioController : Controller
     {
-
         private AltaUsuario CUAltaUsuario = new AltaUsuario();
 
         // GET: UsuarioController
@@ -30,16 +32,32 @@ namespace MVC.Controllers
         // POST: UsuarioController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(UsuarioViewModel usuarioVM)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if(ModelState.IsValid)
+                {
+                    UsuarioDTO usuarioDTO = new UsuarioDTO()
+                    {
+                        NombreUsuario = usuarioVM.NombreUsuario,
+                        Password = usuarioVM.Password,
+                        Rol = usuarioVM.Rol
+                    };
+                    CUAltaUsuario.Ejecutar(usuarioDTO);
+                    ViewBag.Message = "Usuario creado correctamente.";
+                    return View();
+                }
             }
-            catch
+            catch(UsuarioException ex) 
             {
-                return View();
+                ViewBag.Message = ex.Message;
             }
+            catch (Exception ex)
+            {
+                ViewBag.Message = "Error en los datos.";
+            }
+            return View();
         }
 
         // GET: UsuarioController/Edit/5
